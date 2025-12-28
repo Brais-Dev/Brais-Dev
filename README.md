@@ -40,7 +40,7 @@ Desarrollador y creador de la herramienta Dragon-Black. Me encanta diseñar herr
 ---
 
 ## 📈 Estadísticas de GitHub
-(https://github-readme-stats.vercel.app/api?username=Brais-Dev&show_icons=true&count_private=true&theme=radical)
+![Brais-Dev](https://github-readme-stats.vercel.app/api?username=Brais-Dev&show_icons=true&count_private=true&theme=radical)
 
 ---
 
