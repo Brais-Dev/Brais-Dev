@@ -1,55 +1,54 @@
-# 👋 Hola — soy Brais Moure (Brais-Dev)
+# 👋 Hello — I'm Brais Moure (Brais-Dev)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Brais--Dev-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Brais-Dev)
 [![Instagram](https://img.shields.io/badge/Instagram-@braisdev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/braisdev?igsh=b2R5cWszbTlkbXN1)
 [![Email](https://img.shields.io/badge/Email-braismoure.braisdev@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:braismoure.braisdev@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Brais-Dev?label=Seguir&style=social)](https://github.com/Brais-Dev)
+[![GitHub followers](https://img.shields.io/github/followers/Brais-Dev?label=Follow&style=social)](https://github.com/Brais-Dev)
 
-Desarrollador y creador de la herramienta Dragon-Black. Me encanta diseñar herramientas que amplíen la productividad y faciliten la automatizacion de tareas.
-
----
-
-## 🔭 Proyectos en desarrollo
-principalmente e desarrollado una herramienta llamada Dragon-Black especialmente para usuarios Android 📲 esta herramienta facilita distintas necesidades lla que es una herramienta muy completa
-🧐 quieres echarle un vistazo [Dragon-Black](https://github.com/Brais-Dev/Dragon-Black)
+Developer and creator of the Dragon-Black tool. I love designing tools that enhance productivity and facilitate task automation.
 
 ---
 
-## 🧰 Habilidades principales
-- desarrollo con Python 🐍
-- desarrollo web 🌐
-- JavaScript 
+## 🔭 Projects in development
+I have mainly developed a tool called Dragon-Black especially for Android users 📲 this tool facilitates various needs and is a very comprehensive tool
+🧐 want to take a look [Dragon-Black](https://github.com/Brais-Dev/Dragon-Black)
 
 ---
 
-## 🚀 Proyectos destacados
-
-- Dragon-Black — herramienta principal creada por mí  
-  Repositorio: https://github.com/Brais-Dev/Dragon-Black
-
-- Dragon-Black-Plugins — gestor / colección de plugins para Dragon-Black  que permiten mejorar Dragon-Black
-  Repositorio: https://github.com/Brais-Dev/Dragon-Black-Plugins
+## 🧰 Main Skills
+- Development with Python 🐍
+- Web development 🌐
+- JavaScript
 
 ---
 
-## 🔎 encuentrame en
+## 🚀 Featured Projects
+
+- Dragon-Black — main tool created by me
+  Repository: https://github.com/Brais-Dev/Dragon-Black
+
+- Dragon-Black-Plugins — manager / collection of plugins for Dragon-Black that allow improving Dragon-Black
+  Repository: https://github.com/Brais-Dev/Dragon-Black-Plugins
+
+---
+
+## 🔎 Find me on
 [![YouTube](https://img.shields.io/badge/YouTube-Brais--Dev-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Brais-Dev)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@braisdev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/braisdev?igsh=b2R5cWszbTlkbXN1)
 
 [![Email](https://img.shields.io/badge/Email-braismoure.braisdev@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:braismoure.braisdev@gmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/Brais-Dev?label=Seguir&style=social)](https://github.com/Brais-Dev)
+[![GitHub followers](https://img.shields.io/github/followers/Brais-Dev?label=Follow&style=social)](https://github.com/Brais-Dev)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 ![Brais-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brais-Dev&show_icons=true&count_private=true&theme=radical)
 
 ---
 
-## ✨ Unete al Proyecto Dragón-Black 
-mejora tus habilidades con Python formando parte como creador y desarrollador de plugins, herramientas para Dragon-Black 
-Dragon-Black permite que puedas integrar buestras herramientas en su gestor de plugins [Dragon-Black-Plugins](https://github.com/Brais-Dev/Dragon-Black-Plugins)
-Comienza yaaa!
-puedes obtener mas información en la página web oficial de Dragon-Black -> [Dragon-Black-web](https://github.com/Brais-Dev.io)
+## ✨ Join the Dragon-Black Project
+improve your Python skills by becoming a creator and developer of plugins and tools for Dragon-Black
+Dragon-Black allows you to integrate your tools into its plugin manager [Dragon-Black-Plugins](https://github.com/Brais-Dev/Dragon-Black-Plugins)
+Get started now!
