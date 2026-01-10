@@ -39,6 +39,8 @@ I have mainly developed a tool called Dragon-Black especially for Android users 
 
 [![Email](https://img.shields.io/badge/Email-braismoure.braisdev@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:braismoure.braisdev@gmail.com)
 
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/wrcMUe65)
+
 [![GitHub followers](https://img.shields.io/github/followers/Brais-Dev?label=Follow&style=social)](https://github.com/Brais-Dev)
 
 ---
